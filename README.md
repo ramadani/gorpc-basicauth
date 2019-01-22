@@ -1,2 +1,2 @@
-# gorpc_basicauth
+# gorpc-basicauth
 Golang gRPC for Basic Auth
